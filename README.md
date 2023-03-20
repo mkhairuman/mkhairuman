@@ -25,7 +25,8 @@ Oh, right, yeah. I play Elite Dangerous, ~~the best space sim ever created~~. I 
 Welcome to the starting stage in every single RPG ever: Village Stage!
 
 This is not a stage, nor this is a village eithe--
-[This vilage is still in construction. Please wait a few months to see the completed village.]
+
+`This vilage is still in construction. Please wait a few months to see the completed village.`
 
 <!--
 **mkhairuman/mkhairuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
